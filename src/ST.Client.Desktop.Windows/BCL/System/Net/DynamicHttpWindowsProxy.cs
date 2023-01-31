@@ -930,7 +930,7 @@ public sealed class DynamicHttpWindowsProxy : IWebProxy, IDisposable
         /// <summary>
         /// Raises the <see cref="Error"/> event.
         /// </summary>
-        /// <param name="e">The <see cref="Exception"/> which occured while watching the registry.</param>
+        /// <param name="e">The <see cref="Exception"/> which occurred while watching the registry.</param>
         /// <remarks>
         /// <p>
         /// <b>OnError</b> is called when an exception occurs while watching the registry.
